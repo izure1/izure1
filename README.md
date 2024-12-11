@@ -3,7 +3,7 @@
 The JavaScript/TypeScript developer.   
 Currently coding with React, Vue, Next.js, Nuxt.js and Electron.
 
-This repository is a collection of libraries I found useful during my work.
+This repository contains libraries that I created and deemed useful during my work.
 
 ## Repository Types
 
