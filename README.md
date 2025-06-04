@@ -11,7 +11,7 @@ This repository contains libraries that I created and deemed useful during my wo
 
 #### [klaf](https://github.com/izure1/klaf)
 
-klaf.js is a lightweight JavaScript library offering both a key-value store and document-oriented database with asynchronous operations. Optimized for performance and flexibility, it is ideal for modern applications requiring fast, schema-defined data storage.
+klaf.js is a lightweight JavaScript library offering both a key-value store and document-oriented database with asynchronous operations.
 
 #### [serializable-bptree](https://github.com/izure1/serializable-bptree)
 
