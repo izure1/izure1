@@ -13,7 +13,7 @@ This repository contains libraries that I created and deemed useful during my wo
 
 klaf.js is a lightweight JavaScript library offering both a key-value store and document-oriented database with asynchronous operations.
 
-#### [Dataply](https://github.com/izure1/dataply)
+#### [dataply](https://github.com/izure1/dataply)
 
 A lightweight storage engine for Node.js with support for MVCC, WAL.
 
