@@ -9,13 +9,13 @@ This repository contains libraries that I created and deemed useful during my wo
 
 ### Database, or data storage
 
-#### [klaf](https://github.com/izure1/klaf)
-
-klaf.js is a lightweight JavaScript library offering both a key-value store and document-oriented database with asynchronous operations.
-
 #### [dataply](https://github.com/izure1/dataply)
 
 A lightweight storage engine for Node.js with support for MVCC, WAL.
+
+#### [document-dataply](https://github.com/izure1/document-dataply)
+
+Simple and powerful JSON document database supporting complex queries and flexible indexing policies.
 
 #### [serializable-bptree](https://github.com/izure1/serializable-bptree)
 
