@@ -42,3 +42,13 @@ Enhance your program's strength and flexibility by seamlessly hooking into the o
 #### [undoit](https://github.com/izure1/undoit)
 
 Simple undo, redo system for JavaScript/TypeScript.
+
+### Interesting
+
+#### [animalese-tts](https://github.com/izure1/animalese-tts)
+
+Animalese TTS is an Animal Crossing style Voice Synthesis (TTS) engine.
+
+#### [leviar](https://github.com/izure1/leviar)
+
+WebGL 2.5D rendering engine with parallax scrolling
