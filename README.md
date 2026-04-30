@@ -52,3 +52,7 @@ Animalese TTS is an Animal Crossing style Voice Synthesis (TTS) engine.
 #### [leviar](https://github.com/izure1/leviar)
 
 WebGL 2.5D rendering engine with parallax scrolling
+
+#### [fumika](https://github.com/izure1/fumika)
+
+A powerful and flexible modular visual novel engine based on web technologies.
